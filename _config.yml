@@ -265,7 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Molloy]
-  first_name: [M. Fiona, M.F.]
+  first_name: [Mary, M.]
+  middle_name: [Fiona, F.]
 
   style: apa
   locale: en
