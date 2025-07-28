@@ -27,10 +27,10 @@
     - title: Master of Applied Statistics
       institution: The Ohio State University
       year: 2020
-     - title: Master of Science (Cognitive Psychology)
-     institution: The Ohio State University
-     year: 2020
-     description:
+    - title: Master of Science (Cognitive Psychology)
+      institution: The Ohio State University
+      year: 2020
+      description:
         - title: Thesis 
         contents: 
         - An Integrative Model of Response Inhibition
@@ -46,8 +46,7 @@
           - Substance Misuse and Addiction
           - Minor- Integrative Approaches to Health and Wellness
         - Research Distinction in Neuroscience 
-      
-      
+       
 - title: Teaching Experience
   type: time_table
   contents:
@@ -63,7 +62,6 @@
       description:
         - Data Analysis (PSYCH 2200)
 
-   
 - title: Academic Interests
   type: list
   contents:
@@ -72,7 +70,6 @@
     - Risk factors for substance use problems in adolescence  
     - Development of the connectome and higher order networks from infancy to adulthood
     - Application and development of robust statistical analyses and models for neuroscience and psychology that can account for individual differences
-
 
 - title: Other Interests
   type: list
