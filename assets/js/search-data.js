@@ -494,14 +494,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%66%69%6F%6E%61%6D%6F%6C%6F%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%66%69%6F%6E%61%6D%6F%6C%6C%6F%79@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/fionamolloy", "_blank");
+          window.open("https://www.linkedin.com/in/mfionamolloy", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -509,13 +509,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=D7Nis78AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
