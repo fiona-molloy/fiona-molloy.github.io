@@ -4,12 +4,15 @@
     "label": "Scientist",
     "image": "",
     "email": "mfionamolloy@gmail.com",
-    "url": "https://fiona-molloy.github.io/",
-    "summary": "Post-doctoral Research Fellow at UM",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "city": "Ann Arbor",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Michigan"
+      "region": "California"
     },
     "profiles": [
       {
