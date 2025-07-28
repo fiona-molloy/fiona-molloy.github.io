@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://medicine.umich.edu/dept/psychiatry/fiona-molloy-phd'>Dr. M. Fiona Molloy., Addiction Center, University of Michigan</a>. 
+subtitle: <a href='https://medicine.umich.edu/dept/psychiatry/fiona-molloy-phd'>Addiction Center, University of Michigan</a>. Dr. M. Fiona Molloy.
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>mfionamolloy@gmail.com</p>
     <p>Ann Arbor, MI</p>
