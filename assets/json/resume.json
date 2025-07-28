@@ -1,18 +1,15 @@
 {
   "basics": {
     "name": "Fiona Molloy",
-    "label": "Scientist",
+    "label": "Computational Cognitive Neuroscientist",
     "image": "",
     "email": "mfionamolloy@gmail.com",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://fiona-molloy.github.io/",
+    "summary": "Post-doctoral fellow at the University of Michigan",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": "California"
+      "region": "Michigan"
     },
     "profiles": [
       {
