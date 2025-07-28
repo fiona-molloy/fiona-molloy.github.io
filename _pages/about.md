@@ -6,7 +6,7 @@ subtitle: <a href='https://medicine.umich.edu/dept/psychiatry/fiona-molloy-phd'>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>mfionamolloy@gmail.com</p>
