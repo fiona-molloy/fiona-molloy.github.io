@@ -428,14 +428,14 @@ ninja.data = [{
           description: "Connectivity-driven organization of infant, adolescent, and adult brains",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-decision-making",
-          title: 'Decision-making',
+            },},{id: "projects-modeling-decision-making",
+          title: 'Modeling Decision-making',
           description: "Cognitive models of individual differences in decision-making behavior",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-prediction",
-          title: 'Prediction',
-          description: "Multivariate neural predictors of behavioral and clinical outcomes in  youth",
+            },},{id: "projects-brain-behavior-prediction",
+          title: 'Brain-behavior Prediction',
+          description: "Multivariate neural predictors of behavioral and clinical outcomes in youth",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-neuroimaging-methods",
