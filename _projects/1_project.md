@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Connectivity-driven organization of infant, adolescent, and adult brains
-description: with background image
+title: Brain Networks
+description: Connectivity-driven organization of infant, adolescent, and adult brains
 img: assets/img/12.jpg
 importance: 1
 category: work
