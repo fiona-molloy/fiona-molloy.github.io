@@ -428,9 +428,9 @@ ninja.data = [{
           description: "Connectivity-driven organization of infant, adolescent, and adult brains",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-decision-making",
+          title: 'Decision-making',
+          description: "Cognitive models of individual differences in decision-making behavior",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
