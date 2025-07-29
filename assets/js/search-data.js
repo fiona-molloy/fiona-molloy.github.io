@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-connectivity-driven-organization-of-infant-adolescent-and-adult-brains",
-          title: 'Connectivity-driven organization of infant, adolescent, and adult brains',
-          description: "with background image",
+          section: "News",},{id: "projects-brain-networks",
+          title: 'Brain Networks',
+          description: "Connectivity-driven organization of infant, adolescent, and adult brains",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
