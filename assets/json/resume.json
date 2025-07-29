@@ -147,7 +147,7 @@
         "Task-based fMRI collection, processing, analysis",
         "Resting-state fMRI collection, processing, analysis",
         "Network neuroscience, graph theory",
-        "FSL, FreeSurfer",
+        "FSL, FreeSurfer"
       ]
     },
    {
@@ -158,7 +158,7 @@
         "Bayesian statistics",
         "Joint modeling",
         "Multivariate predictive modeling",
-        "Cognitive process models",
+        "Cognitive process models"
       ]
     },
     {
@@ -169,7 +169,7 @@
         "R",
         "MATLAB",
         "JAGS",
-        "Shell-scripting",
+        "Shell-scripting"
       ]
     }
   ],
