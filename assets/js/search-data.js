@@ -428,8 +428,8 @@ ninja.data = [{
           description: "Connectivity-driven organization of infant, adolescent, and adult brains",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-decision-making",
-          title: 'Decision-making',
+            },},{id: "projects-modeling-decision-making",
+          title: 'Modeling Decision-making',
           description: "Cognitive models of individual differences in decision-making behavior",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -448,11 +448,6 @@ ninja.data = [{
           description: "Neurocognitive mechanisms of addiction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
