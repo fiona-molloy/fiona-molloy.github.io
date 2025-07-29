@@ -34,7 +34,6 @@
       "studyType": "PhD",
       "startDate": "2018-08-01",
       "endDate": "2022-08-01",
-      "score": "10",
       "courses": ["Dissertation"]
     }
   ],
@@ -143,15 +142,30 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Cognitive neuroscience",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computational modeling of the link between brain and behavior",
+        "Cognitive process models of decision-making",
+        "Neuroimaging (fMRI)",
+        "Connectomics and higher order networks",
+        "Development from infancy to adulthood",
+      ],
+      "name": "Substance use",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Risky decision-making and substance use",
+        "Dynamics of cognitive processes in addiction",
+        "Risk factors in adolescence",
+        "Delay discounting",
+      ],
+      "name": "Computational Modeling",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Bayesian modeling",
+        "Individual differences",
+        "Joint models of brain-behavior",
+        "Multivariate predictive methods"
       ]
     }
   ],
