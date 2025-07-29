@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Substance use
-description: Neurocognitive mechanisms of addiction
+title: Mechanisms of Addiction
+description: Neurocognitive mechanisms of addiction, prediction of adolescent substance use
 img:
 importance: 4
 category: work
