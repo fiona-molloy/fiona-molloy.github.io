@@ -24,7 +24,9 @@
       "name": "Addiction Center, University of Michigan",
       "position": "Postdoctoral Research Fellow",
       "url": "https://medicine.umich.edu/dept/psychiatry/education/fellowships/niaaa-t-32-postdoctoral-research-training-fellowship",
-      "summary": "T-32 Postdoctoral Fellowship is funded by the National Institute on Alcohol Abuse and Alcoholism - T32 AA007477-29"
+      "summary": "T-32 Postdoctoral Fellowship is funded by the National Institute on Alcohol Abuse and Alcoholism - T32 AA007477-29",
+      "startDate": "2023",
+      "endDate": "current"
     }
   ],
   "education": [
@@ -33,8 +35,31 @@
       "area": "Cognitive Neuroscience",
       "studyType": "PhD",
       "startDate": "2018",
-      "endDate": "2022",
-      "courses": ["Dissertation: Personalized brain mapping in infants, adolescents, and adults","Advisors: Dr. Zeynep Saygin and Dr. David Osher"]
+      "endDate": "2023",
+      "courses": ["Dissertation: Individualized brain mapping in infants, adolescents, and adults","Advisors: Dr. Zeynep Saygin and Dr. David Osher"]
+    },
+    {
+      "institution": "The Ohio State University",
+      "area": "Statistics",
+      "studyType": "Master of Applied Statistics",
+      "startDate": "2018",
+      "endDate": "2020"    
+    },
+    {
+      "institution": "The Ohio State University",
+      "area": "Cognitive Psychology",
+      "studyType": "Master of Science",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": ["Thesis: An integrative model of response inhibition"]
+    },
+  {
+      "institution": "The Ohio State University",
+      "area": "Neuroscience",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014",
+      "endDate": "2018",
+      "courses": ["Major concentration: Behavioral/systems neuroscience","Minor: Substance misuse and addiction","Minor: Integrative approaches to health and wellness","Research distinction in neuroscience"]
     }
   ],
   "awards": [
