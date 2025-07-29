@@ -433,9 +433,9 @@ ninja.data = [{
           description: "Cognitive models of individual differences in decision-making behavior",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-prediction",
+          title: 'Prediction',
+          description: "Multivariate neural predictors of behavioral and clinical outcomes in  youth",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
