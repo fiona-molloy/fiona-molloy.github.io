@@ -443,9 +443,9 @@ ninja.data = [{
           description: "Advanced statistical analyses for identifying the neural basis of executive functions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-substance-use",
-          title: 'Substance use',
-          description: "Neurocognitive mechanisms of addiction",
+            },},{id: "projects-mechanisms-of-addiction",
+          title: 'Mechanisms of Addiction',
+          description: "Neurocognitive mechanisms of addiction, prediction of adolescent substance use",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
