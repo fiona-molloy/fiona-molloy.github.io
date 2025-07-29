@@ -140,16 +140,36 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Neuroimaging",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Task-based fMRI collection, processing, analysis",
+        "Resting-state fMRI collection, processing, analysis",
+        "Network neuroscience, graph theory",
+        "FSL, FreeSurfer",
+      ]
+    },
+   {
+      "name": "Modeling and Statistics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Bayesian statistics",
+        "Joint modeling",
+        "Multivariate predictive modeling",
+        "Cognitive process models",
+      ]
+    },
+    {
+      "name": "Coding",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "R",
+        "MATLAB",
+        "JAGS",
+        "Shell-scripting",
       ]
     }
   ],
