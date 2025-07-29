@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decision-making
+title: Modeling Decision-making
 description: Cognitive models of individual differences in decision-making behavior
 img: assets/img/3.jpg
 importance: 2
