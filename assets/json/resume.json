@@ -32,9 +32,9 @@
       "institution": "The Ohio State University",
       "area": "Cognitive Neuroscience",
       "studyType": "PhD",
-      "startDate": "2018-08-01",
-      "endDate": "2022-08-01",
-      "courses": ["Dissertation"]
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": ["Dissertation: Personalized brain mapping in infants, adolescents, and adults","Advisors: Dr. Zeynep Saygin and Dr. David Osher"]
     }
   ],
   "awards": [
@@ -150,16 +150,16 @@
         "Neuroimaging (fMRI)",
         "Connectomics and higher order networks",
         "Development from infancy to adulthood"
-      ],
-      "name": "Substance use",
+      ]},
+      {"name": "Substance use",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Risky decision-making and substance use",
         "Dynamics of cognitive processes in addiction",
         "Risk factors in adolescence",
         "Delay discounting"
-      ],
-      "name": "Computational Modeling",
+      ]},
+      {"name": "Computational Modeling",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Bayesian modeling",
@@ -167,7 +167,7 @@
         "Joint models of brain-behavior",
         "Multivariate predictive methods"
       ]
-    }
+    }}
   ],
   "references": [
     {
