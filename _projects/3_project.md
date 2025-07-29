@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Prediction
-description: Multivariate neural predictors of behavioral and clinical outcomes in  youth
-img: assets/img/7.jpg
+title: Brain-behavior Prediction
+description: Multivariate neural predictors of behavioral and clinical outcomes in youth
+img: 
 importance: 3
 category: work
 ---
