@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Fiona and I am a computational cognitive neuroscientist. I leverage computational models to study individual differences in the human brain and behavior, with a focus on neuroimaging (fMRI) and decision-making. I use these models to answer questions about neurocognitive mechanisms underlying key topics such as human development (spanning infancy to young adulthood) and substance use disorders (particularly risk factors in adolescents). My current role is NIAAA T32 postdoctoral research fellow in the Addiction Center at the University of Michigan Department of Psychiatry.
+My name is Fiona and I am a computational cognitive neuroscientist. I leverage computational models to study individual differences in the human brain and behavior, with a focus on neuroimaging (fMRI) and decision-making. I use these models to answer questions about neurocognitive mechanisms underlying key processes in human development (spanning infancy to young adulthood) and substance use disorders (particularly risk factors in adolescence). My current role is NIAAA T32 postdoctoral research fellow in the Addiction Center at the University of Michigan Department of Psychiatry.
 
 Please see my [publications page](/al-folio/publications/) or my google scholar page for a list of my publications.
