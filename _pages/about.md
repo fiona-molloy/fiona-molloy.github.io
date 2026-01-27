@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://medicine.umich.edu/dept/psychiatry/fiona-molloy-phd'>Addiction Center, University of Michigan</a>. Dr. M. Fiona Molloy.  
+subtitle: <a href='https://experts.umich.edu/11900-fiona-molloy/'>Addiction Center, University of Michigan</a>. Dr. M. Fiona Molloy.  
 
 profile:
   align: right
