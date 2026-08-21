@@ -5,11 +5,11 @@
     "image": "",
     "email": "mfionamolloy@gmail.com",
     "url": "https://fiona-molloy.github.io/",
-    "summary": "Post-doctoral fellow at the University of Michigan",
+    "summary": "Assistant Professor at the Pennsylvania State University",
     "location": {
-      "city": "Ann Arbor",
+      "city": "State College",
       "countryCode": "US",
-      "region": "Michigan"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
@@ -20,13 +20,21 @@
     ]
   },
   "work": [
+     {
+      "name": "Department of Psychology, The Pennsylvania State University",
+      "position": "Tenure-track Assistant Professor",
+      "url": "https://psych.la.psu.edu/graduate/program-areas/cognitive/faculty/",
+      "summary": "Cognitive Area, Social Sciences Research Institute (SSRI) Cofunded Faculty",
+      "startDate": "2026",
+      "endDate": "current"
+    }
     {
       "name": "Addiction Center, University of Michigan",
       "position": "Postdoctoral Research Fellow",
       "url": "https://medicine.umich.edu/dept/psychiatry/education/fellowships/niaaa-t-32-postdoctoral-research-training-fellowship",
       "summary": "T-32 Postdoctoral Fellowship is funded by the National Institute on Alcohol Abuse and Alcoholism - T32 AA007477-29",
       "startDate": "2023",
-      "endDate": "current"
+      "endDate": "2026"
     }
   ],
   "education": [
