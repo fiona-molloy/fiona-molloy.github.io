@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://experts.umich.edu/11900-fiona-molloy/'>Addiction Center, University of Michigan</a>. Dr. M. Fiona Molloy.  
+subtitle: <a href='https://psych.la.psu.edu'>Department of Psychology, The Pennsylvania State University</a>. Dr. M. Fiona Molloy.  
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>mfionamolloy@gmail.com</p>
-    <p>Ann Arbor, MI</p>
+    <p>mfmolloy@psu.edu</p>
+    <p>State College, PA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Fiona and I am a computational cognitive neuroscientist. I leverage computational models to study individual differences in the human brain and behavior, with a focus on neuroimaging (fMRI) and decision-making. I use these models to answer questions about neurocognitive mechanisms underlying key processes in human development (spanning infancy to young adulthood) and substance use disorders (particularly risk factors in adolescence). Currently, I am an Assistant Professor in the Department of Psychology at the Pennsylvania State University.  
+My name is Fiona and I am an Assistant Professor in the Department of Psychology at the Pennsylvania State University and a computational cognitive neuroscientist. I leverage computational models to study individual differences in the human brain and behavior, with a focus on neuroimaging (fMRI) and decision-making. I use these models to answer questions about neurocognitive mechanisms underlying key processes in human development (spanning infancy to young adulthood) and substance use disorders (particularly risk factors in adolescence). 
 
-Please see my [publications page](/al-folio/publications/) or my google scholar page for a list of my publications.
+Please see my [publications page](/al-folio/publications/) or [my google scholar page](https://scholar.google.com/citations?user=D7Nis78AAAAJ&hl=en) for a list of my publications.
